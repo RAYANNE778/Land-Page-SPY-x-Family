@@ -51,7 +51,7 @@ main .personagem .imagem {
 .conteudo .descricao {
     color: white;
     font-family: "Rubik";
-    font-size: 23px;
+    font-size: -24px;
     line-height: 30px;
 }
 
@@ -70,10 +70,10 @@ main .personagem .imagem {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    width: 180px;
+    width: 150px;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 5px;
     background-color: rgba(0, 0, 0, 0.3);
 }
 
